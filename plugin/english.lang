@@ -4,7 +4,7 @@ plugin.loadError: "Error while loading plugin"
 plugin.enabled: "**UltraEditor** Enabled"
 plugin.disabled: "**UltraEditor** Disabled"
 api.enabled: "API Server Enabled - Running on port: %port%"
-api.dsabled: "API stopped"
+api.disabled: "API stopped"
 # BASE - UPDATER
 updater.downloadFolderFail: "Updater tried to create the update folder but it failed"
 updater.dirError: "Error making directory"
