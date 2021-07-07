@@ -175,7 +175,7 @@ api.upun.toOldVersion: "Ultra Punishments version 1.7.9 or greater is not instal
 api.upun.missingType: "Missing type"
 api.upun.missingTarget: "Missing target"
 api.upun.missingServer: "Missing server"
-api.upun.missingServer: "Missing name"
+api.upun.missingName: "Missing name"
 api.upun.missingKick: "Missing kick"
 api.upun.missingReason: "Missing reason"
 api.upun.serverNotFound: "Server not found"
