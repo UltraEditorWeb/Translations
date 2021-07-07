@@ -28,7 +28,7 @@ updater.runCommand: "Run **&b/ultraeditor update confirm&9** to install the upda
 updater.versionCheckFailed: "Failed to check for new version of UltraEditor"
 # BASE - COMMANDS
 command.notArgs: "Not enough args"
-command.getauth: "Click the link below to copy the AuthKey"
+command.getAuth: "Click the link below to copy the AuthKey"
 command.noPermission: "You do not have the right permissions to execute this command!"
 command.keyRegenerated: "Auth Key regenerated"
 command.newKey: "Your new authkey is"
